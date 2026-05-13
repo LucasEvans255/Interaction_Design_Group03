@@ -32,7 +32,8 @@ android {
 }
 
 dependencies {
-
+    implementation("com.open-meteo:sdk:1.4.0")
+    implementation("com.squareup.okhttp3:okhttp:5.3.0")
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)

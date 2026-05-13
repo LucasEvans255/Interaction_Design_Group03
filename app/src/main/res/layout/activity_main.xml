@@ -30,7 +30,7 @@
                 android:orientation="vertical">
 
                 <Button
-                    android:id="@+id/button4"
+                    android:id="@+id/first_button"
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
                     android:layout_weight="1"
