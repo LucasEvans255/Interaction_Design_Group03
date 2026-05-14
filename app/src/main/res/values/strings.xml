@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Weather_App</string>
+    <string name="hyperlink">&lt;a href="https://open-meteo.com/"&gt;Weather data by Open-Meteo.com&lt;/a&gt;</string>
 </resources>
